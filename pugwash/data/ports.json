@@ -1,0 +1,3545 @@
+{
+    "ports": {
+        "2048.zip": {
+            "version": 1,
+            "source": "2048.zip",
+            "items": [
+                "2048.sh",
+                "2048/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "2048",
+                "desc": "The 2048 puzzle game",
+                "inst": "",
+                "genres": [
+                    "puzzle"
+                ],
+                "porter": "Christian_Haitian",
+                "image": {
+                    "screenshot": "images/2048.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "abes_adventure.zip": {
+            "version": 1,
+            "source": "abes_adventure.zip",
+            "items": [
+                "Abes Adventure.sh",
+                "abes_adventure/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Abe's Amazing Adventure",
+                "desc": "A scrolling, platform-jumping, key-collecting, ancient pyramid exploring game, vaguely in the style of similar games for the Commodore+4.  Abe's Adventure files are already included and ready to go.",
+                "inst": "",
+                "genres": [
+                    "adventure",
+                    "platformer"
+                ],
+                "porter": "Cebion",
+                "image": {
+                    "screenshot": "images/abes_adventure.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "profadeluxe.zip": {
+            "version": 1,
+            "source": "profadeluxe.zip",
+            "items": [
+                "Abu Simbel Profanation Deluxe.sh",
+                "profadeluxe/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Abu Simbel Profanation Deluxe",
+                "desc": "An open-source, freeware remake of the Spanish platform game from 1985 replaces the graphics and sounds with new enhanced assets, while maintaining the same unforgiving gameplay of the original.  Just download and play.",
+                "inst": "",
+                "genres": [
+                    "adventure",
+                    "platformer"
+                ],
+                "porter": "Cebion",
+                "image": {
+                    "screenshot": "images/profadeluxe.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "abuse.zip": {
+            "version": 1,
+            "source": "abuse.zip",
+            "items": [
+                "Abuse/",
+                "Abuse.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Abuse",
+                "desc": "A fork of the original Abuse SDL port from http://abuse.zoy.org/.  An intense 2D shooter.  Plays best on dual analog stick devices.  Just download and play.",
+                "inst": "",
+                "genres": [
+                    "action",
+                    "shooter"
+                ],
+                "porter": "romadu",
+                "image": {
+                    "screenshot": "images/abuse.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "alephone-marathon.zip": {
+            "version": 1,
+            "source": "alephone-marathon.zip",
+            "items": [
+                "alephone/",
+                "Marathon.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Aleph-One Marathon 1",
+                "desc": "An open source version of Bungie's Marathon 1 first person shooter. All files have been included.",
+                "inst": "",
+                "genres": [
+                    "fps"
+                ],
+                "porter": "romadu",
+                "image": {
+                    "screenshot": "images/alephone-marathon.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "alephone-marathon2.zip": {
+            "version": 1,
+            "source": "alephone-marathon2.zip",
+            "items": [
+                "alephone/",
+                "Marathon 2.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Aleph-One Marathon 2",
+                "desc": "An open source version of Bungie's Marathon 2 first person shooter. All files have been included.",
+                "inst": "",
+                "genres": [
+                    "fps"
+                ],
+                "porter": "romadu",
+                "image": {
+                    "screenshot": "images/alephone-marathon2.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "alephone-marathoninfinity.zip": {
+            "version": 1,
+            "source": "alephone-marathoninfinity.zip",
+            "items": [
+                "alephone/",
+                "Marathon Infinity.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Aleph-One Marathon Infinity",
+                "desc": "An open source version of Bungie's Marathon Infinity first person shooter. All files have been included.",
+                "inst": "",
+                "genres": [
+                    "fps"
+                ],
+                "porter": "romadu",
+                "image": {
+                    "screenshot": "images/alephone-marathoninfinity.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "avp.zip": {
+            "version": 1,
+            "source": "avp.zip",
+            "items": [
+                "Alien vs Predator.sh",
+                "avp/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Alien vs Predator",
+                "desc": "The three most ferocious species in the universe in a bloodthirsty battle for the ultimate prize: survival. Take your pick: be a Colonial Marine, a Predator or an Alien. Fight through suspense-filled environments: from starships and space stations to colonial bases and eerie planetscapes. One wrong move turns you from hunter to prey.",
+                "inst": "You will need the original files of the PC release copied to the ports/avp folder.",
+                "genres": [
+                    "fps",
+                    "action"
+                ],
+                "porter": "Cebion",
+                "image": {
+                    "screenshot": "images/avp.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "am2r.zip": {
+            "version": 1,
+            "source": "am2r.zip",
+            "items": [
+                "am2r/",
+                "AM2R.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "AM2R",
+                "desc": "Another Metroid 2 Remake.  An action-adventure game developed by Argentinian programmer Milton Guasti (also known as DoctorM64).",
+                "inst": "You'll need to provide your own am2r android apk into the ports/am2r/gamedata folder.  Make sure it is named am2r.apk.  The name is case sensitive.",
+                "genres": [
+                    "action",
+                    "adventure",
+                    "platformer"
+                ],
+                "porter": "Johnny on Flame",
+                "image": {
+                    "screenshot": "images/am2r.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "anarch.zip": {
+            "version": 1,
+            "source": "anarch.zip",
+            "items": [
+                "anarch/",
+                "Anarch.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Anarch",
+                "desc": "Anarch is extremely small, completely public domain, no-dependency, no-file, portable suckless anarcho-pacifist from-scratch 90s-style Doom clone that runs everywhere, made for the benefit of all living beings",
+                "inst": "",
+                "genres": [
+                    "fps",
+                    "action"
+                ],
+                "porter": "Bamboozler",
+                "image": {
+                    "screenshot": "images/anarch.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "augustus.zip": {
+            "version": 1,
+            "source": "augustus.zip",
+            "items": [
+                "Augustus.sh",
+                "augustus/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Augustus",
+                "desc": "A reimplemntation of the Caeser 3 engine.",
+                "inst": "You will need the original files of the PC release copied to the ports/augustus/data folder.",
+                "genres": [
+                    "simulation",
+                    "strategy"
+                ],
+                "porter": "Kloptops and Cebion",
+                "image": {
+                    "screenshot": "images/augustus.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "axiom.verge.zip": {
+            "version": 1,
+            "source": "axiom.verge.zip",
+            "items": [
+                "axiom-verge/",
+                "Axiom Verge.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Axiom Verge",
+                "desc": "A port of Axiom Verge, an awesome metroidvania 2D platformer.",
+                "inst": "You will need to add your own files to the ports/axiom-verge/gamedata folder. YOU HAVE TO USE THE DRM FREE EPIC GAMES VERSION. All intructions are in the ports/axiom-verge/gamedata folder",
+                "genres": [
+                    "action",
+                    "adventure",
+                    "platformer"
+                ],
+                "porter": "Johnny on Flame, Overflask, and Nuxx",
+                "image": {
+                    "screenshot": "images/axiom.verge.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": "mono-6.12.0.122-aarch64.squashfs",
+                "reqs": []
+            }
+        },
+        "bermuda_syndrome.zip": {
+            "version": 1,
+            "source": "bermuda_syndrome.zip",
+            "items": [
+                "bermuda/",
+                "Bermuda Syndrome.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Bermuda Syndrome",
+                "desc": "A reimplemntation of the Berumuda Syndrome engine.",
+                "inst": "You will need the original files of the PC release or PC demo copied to the ports/bermuda/DATA folder.",
+                "genres": [
+                    "action"
+                ],
+                "porter": "jetup",
+                "image": {
+                    "screenshot": "images/bermuda_syndrome.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "billyfrontier.zip": {
+            "version": 1,
+            "source": "billyfrontier.zip",
+            "items": [
+                "BillyFrontier.sh",
+                "billyfrontier/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Billy Frontier",
+                "desc": "This is Pangea Software's Billy Frontier updated to run on modern operating systems. Use the touchscreen to navigate the UI and gameplay.",
+                "inst": "",
+                "genres": [
+                    "action",
+                    "shooter"
+                ],
+                "porter": "brooksytech",
+                "image": {
+                    "screenshot": "images/billyfrontier.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": [
+                    "opengl"
+                ]
+            }
+        },
+        "bstone-aog.zip": {
+            "version": 1,
+            "source": "bstone-aog.zip",
+            "items": [
+                "Blake Stone - Aliens of Gold.sh",
+                "bstone-aog/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Blake Stone Aliens of Gold",
+                "desc": "The unofficial source port for Blake Stone Aliens of Gold.",
+                "inst": "Includes the shareware files.  You can also add your own full version Blake Stone Aliens of Gold files to the ports/bstone-aog/gamedata/alien_of_gold folder.",
+                "genres": [
+                    "fps",
+                    "action"
+                ],
+                "porter": "Cebion and romadu",
+                "image": {
+                    "screenshot": "images/bstone-aog.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "bstone-ps.zip": {
+            "version": 1,
+            "source": "bstone-ps.zip",
+            "items": [
+                "Blake Stone - Planet Strike.sh",
+                "bstone-ps/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Blake Stone Planet Strike",
+                "desc": "The unofficial source port for Blake Stone Planet Strike.",
+                "inst": "You'll need to add your own full version Blake Stone Planet Strike files to the ports/bstone-ps/gamedata/planet_strike folder.",
+                "genres": [
+                    "fps"
+                ],
+                "porter": "Cebion and romadu",
+                "image": {
+                    "screenshot": "images/bstone-ps.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "blobwars.zip": {
+            "version": 1,
+            "source": "blobwars.zip",
+            "items": [
+                "Blobwars.sh",
+                "blobwars/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Blob Wars: Metal Blob Solid",
+                "desc": "Metal Blob Solid is the first game in the Blob Wars series made by Parallel Realities. It is a 2D platform game, where you control Bob in an effort to save his world from an invasion of alien Blobs.  Blobwars files are already included and ready to go.",
+                "inst": "",
+                "genres": [
+                    "action",
+                    "platformer"
+                ],
+                "porter": "Cebion",
+                "image": {
+                    "screenshot": "images/blobwars.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "blobby.volley2.zip": {
+            "version": 1,
+            "source": "blobby.volley2.zip",
+            "items": [
+                "Blobby Volley 2.sh",
+                "blobbyvolley2/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Blobby Volley 2",
+                "desc": "A head-to-head multiplayer ball game.",
+                "inst": "",
+                "genres": [
+                    "sports"
+                ],
+                "porter": "Cebion and romadu",
+                "image": {
+                    "screenshot": "images/blobby.volley2.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "block.attack.zip": {
+            "version": 1,
+            "source": "block.attack.zip",
+            "items": [
+                "Block Attack.sh",
+                "blockattack/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Block Attack",
+                "desc": "A Tetris Attack Clone.",
+                "inst": "",
+                "genres": [
+                    "puzzle"
+                ],
+                "porter": "Cebion",
+                "image": {
+                    "screenshot": "images/block.attack.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "blockout2.zip": {
+            "version": 1,
+            "source": "blockout2.zip",
+            "items": [
+                "Blockout 2.sh",
+                "blockout2/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "BlockOut II",
+                "desc": "BlockOut II is a free adaptation of the original BlockOut DOS game. BlockOut II has the same features than the original game with few graphic improvements.  BlockOut II files are already included and ready to go.",
+                "inst": "",
+                "genres": [
+                    "puzzle"
+                ],
+                "porter": "Cebion",
+                "image": {
+                    "screenshot": "images/blockout2.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "blood.zip": {
+            "version": 1,
+            "source": "blood.zip",
+            "items": [
+                "Blood.sh",
+                "Blood/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Blood",
+                "desc": "Blood port based on EDuke32.",
+                "inst": "You'll need to add your own full version Blood 1.21 files to the ports/Blood folder.",
+                "genres": [
+                    "fps",
+                    "action"
+                ],
+                "porter": "romadu",
+                "image": {
+                    "screenshot": "images/blood.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "blues.brothers.zip": {
+            "version": 1,
+            "source": "blues.brothers.zip",
+            "items": [
+                "Blues Brothers.sh",
+                "bluesbrothers/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Blues Brothers",
+                "desc": "A rewrite of the Blues Brothers game engine developed by Titus Interactive.",
+                "inst": "Includes the demo files.  You can add your own full game Amiga or Dos files to the ports/bluesbrothers/gamedata folder.",
+                "genres": [
+                    "platformer"
+                ],
+                "porter": "Jetup",
+                "image": {
+                    "screenshot": "images/blues.brothers.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "bbja.zip": {
+            "version": 1,
+            "source": "bbja.zip",
+            "items": [
+                "Blues Brothers Jukebox Adventure.sh",
+                "jukeboxadventure/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Blues Brothers: Jukebox Adventure",
+                "desc": "A rewrite of the Blues Brothers game engine developed by Titus Interactive.",
+                "inst": "Includes the demo files.  You can add your own full game Dos files to the ports/bbda/gamedata folder.",
+                "genres": [
+                    "platformer"
+                ],
+                "porter": "Jetup",
+                "image": {
+                    "screenshot": "images/bbja.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "bugdom.zip": {
+            "version": 1,
+            "source": "bugdom.zip",
+            "items": [
+                "Bugdom.sh",
+                "bugdom/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Bugdom",
+                "desc": "This is Pangea Software's Bugdom updated to run on modern operating systems. Use the touchscreen to navigate the UI.",
+                "inst": "",
+                "genres": [
+                    "action",
+                    "adventure"
+                ],
+                "porter": "brooksytech",
+                "image": {
+                    "screenshot": "images/bugdom.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": [
+                    "opengl"
+                ]
+            }
+        },
+        "cannonball.zip": {
+            "version": 1,
+            "source": "cannonball.zip",
+            "items": [
+                "Cannonball.sh",
+                "cannonball/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Cannonball",
+                "desc": "This is the libretro port of the OutRun game engine recreation written by Chris White in 2014.",
+                "inst": "Add the OutRun Revision B ROMs into /ports/cannonball/gamedata folder.",
+                "genres": [
+                    "racing"
+                ],
+                "porter": "Christian_Haitian",
+                "image": {
+                    "screenshot": "images/cannonball.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "cave.story.zip": {
+            "version": 1,
+            "source": "cave.story.zip",
+            "items": [
+                "Cave Story.sh",
+                "cavestory/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Cave Story lr",
+                "desc": "Cave Story using the Libretro Retroarch Nxengine core.",
+                "inst": "",
+                "genres": [
+                    "action",
+                    "adventure",
+                    "platformer"
+                ],
+                "porter": "Christian_Haitian",
+                "image": {
+                    "screenshot": "images/cave.story.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "cave.story-evo.zip": {
+            "version": 1,
+            "source": "cave.story-evo.zip",
+            "items": [
+                "Cave Story-evo.sh",
+                "nxengine-evo/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Cave Story (Evo)",
+                "desc": "Cave Story using the Nxengine-evo engine from https://github.com/nxengine/nxengine-evo",
+                "inst": "",
+                "genres": [
+                    "action",
+                    "adventure",
+                    "platformer"
+                ],
+                "porter": "Christian_Haitian",
+                "image": {
+                    "screenshot": "images/cave.story-evo.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "c-dogs.zip": {
+            "version": 1,
+            "source": "c-dogs.zip",
+            "items": [
+                "C-Dogs.sh",
+                "cdogs/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "C-Dogs",
+                "desc": "C-Dogs is a classic overhead run-and-gun game",
+                "inst": "",
+                "genres": [
+                    "action",
+                    "shooter"
+                ],
+                "porter": "Christian_Haitian",
+                "image": {
+                    "screenshot": "images/c-dogs.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "commander.genius.zip": {
+            "version": 1,
+            "source": "commander.genius.zip",
+            "items": [
+                "cgenius/",
+                "Commander Genius.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Commander Genius",
+                "desc": "Commander Genius is an open-source clone of Commander Keen (1-6, Dreams) which allows you to play these episodes and some of the mods made for them.  Developed by Gerstrong.",
+                "inst": "Includes the shareware version of Commander Keen 1.  You can add load your own keen folders into the ports/cgenius/games folder",
+                "genres": [
+                    "action",
+                    "platformer"
+                ],
+                "porter": "Christian_Haitian",
+                "image": {
+                    "screenshot": "images/commander.genius.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "corsixth.zip": {
+            "version": 1,
+            "source": "corsixth.zip",
+            "items": [
+                "CorsixTH/",
+                "CorsixTH.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "CorsixTH",
+                "desc": "An opensource clone of Theme Hospital.",
+                "inst": "Load your Theme Hospital files into the ports/corsixth/HOSP folder.  As an example, the demo files of Theme Hospital is already included.",
+                "genres": [
+                    "simulation",
+                    "strategy"
+                ],
+                "porter": "Jetup and Romadu",
+                "image": {
+                    "screenshot": "images/corsixth.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "cosmo-engine.zip": {
+            "version": 1,
+            "source": "cosmo-engine.zip",
+            "items": [
+                "cosmo-engine/",
+                "Cosmos Cosmic Adventure.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Cosmo-Engine",
+                "desc": "A new game engine to play the MS-DOS game Cosmo's Cosmic Adventure on modern systems.",
+                "inst": "Episode 1 is included and you can add Episode 2 and 3 gamefiles to the data folder",
+                "genres": [
+                    "action",
+                    "platformer"
+                ],
+                "porter": "Bamboozler",
+                "image": {
+                    "screenshot": "images/cosmo-engine.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "cromagrally.zip": {
+            "version": 1,
+            "source": "cromagrally.zip",
+            "items": [
+                "CroMagRally.sh",
+                "cromagrally/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Cro-Mag Rally",
+                "desc": "This is a port of Pangea Software\u2019s racing game Cro-Mag Rally. Take control of the caveman Brog as you race through the  Stone, Bronze, and Iron Ages in primitive vehicles.",
+                "inst": "",
+                "genres": [
+                    "racing"
+                ],
+                "porter": "brooksytech",
+                "image": {
+                    "screenshot": "images/cromagrally.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": [
+                    "opengl"
+                ]
+            }
+        },
+        "davegnukem.zip": {
+            "version": 1,
+            "source": "davegnukem.zip",
+            "items": [
+                "Dave Gnukem.sh",
+                "davegnukem/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Dave Gnukem",
+                "desc": "Dave Gnukem is a cross-platform 2D scrolling platform shooter inspired by Duke Nukem 1.",
+                "inst": "",
+                "genres": [
+                    "action",
+                    "platformer"
+                ],
+                "porter": "Bamboozler",
+                "image": {
+                    "screenshot": "images/davegnukem.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "derclou.zip": {
+            "version": 1,
+            "source": "derclou.zip",
+            "items": [
+                "Der Clou.sh",
+                "derclou/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Der Clou!",
+                "desc": "A burglary simulation game originally created by neo Software Produktions GmbH.  Der Clou!'s files are already included and ready to go.",
+                "inst": "",
+                "genres": [
+                    "simulation",
+                    "strategy"
+                ],
+                "porter": "Cebion",
+                "image": {
+                    "screenshot": "images/derclou.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "devilutionx.zip": {
+            "version": 1,
+            "source": "devilutionx.zip",
+            "items": [
+                "devilution/",
+                "Devilutionx.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "DevilutionX",
+                "desc": "DevilutionX is a source port of Diablo from https://github.com/diasurgical/devilutionX.  Includes the Diablo shareware version.",
+                "inst": "You can add your own full version DIABDAT.MPQ file to the ports/devilution folder.  To run the Diablo: Hellfire expansion you will need to also copy hellfire.mpq, hfmonk.mpq, hfmusic.mpq, hfvoice.mpq.",
+                "genres": [
+                    "action",
+                    "rpg"
+                ],
+                "porter": "Christian_Haitian",
+                "image": {
+                    "screenshot": "images/devilutionx.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "dinothawr.zip": {
+            "version": 1,
+            "source": "dinothawr.zip",
+            "items": [
+                "Dinothawr.sh",
+                "dinothawr/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Dinothawr",
+                "desc": "Dinothawr is a block pushing puzzle game on slippery surfaces.",
+                "inst": "",
+                "genres": [
+                    "puzzle"
+                ],
+                "porter": "Christian_Haitian",
+                "image": {
+                    "screenshot": "images/dinothawr.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "diverdown.zip": {
+            "version": 1,
+            "source": "diverdown.zip",
+            "items": [
+                "DiverDown.sh",
+                "diverdown/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Diver Down",
+                "desc": "Diver Down is a stealth-platformer. Avoid the lights on 20 different stages using your mysterious Diver Down ability, that allows you to dive onto solids! .",
+                "inst": "",
+                "genres": [
+                    "platformer"
+                ],
+                "porter": "Cebion",
+                "image": {
+                    "screenshot": "images/diverdown.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "doom3.zip": {
+            "version": 1,
+            "source": "doom3.zip",
+            "items": [
+                "Doom 3.sh",
+                "doom3/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Doom 3",
+                "desc": "Doom 3 is a 2004 survival horror first-person shooter video game developed by id Software and published by Activision.",
+                "inst": "You need to add your own full game pak files to the ports/doom3/base folder.",
+                "genres": [
+                    "fps",
+                    "action"
+                ],
+                "porter": "brooksytech",
+                "image": {
+                    "screenshot": "images/doom3.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": [
+                    "power"
+                ]
+            }
+        },
+        "duke.nukem.3d.zip": {
+            "version": 1,
+            "source": "duke.nukem.3d.zip",
+            "items": [
+                "Duke Nukem 3D.sh",
+                "rednukem-dn3d-atomic/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Duke Nukem 3D",
+                "desc": "Duke Nukem 3D using the rednukem build open source port by Alexey Khokholov.",
+                "inst": "You'll need to add your own full version duke3d.grp and duke.rts Duke Nukem 3D Atomic files to the ports/rednukem/gamedata folder.",
+                "genres": [
+                    "fps",
+                    "action"
+                ],
+                "porter": "Romadu",
+                "image": {
+                    "screenshot": "images/duke.nukem.3d.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "dungeonrush.zip": {
+            "version": 1,
+            "source": "dungeonrush.zip",
+            "items": [
+                "dungeonrush/",
+                "DungeonRush.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "DungeonRush",
+                "desc": "A opensource game inspired by Snake, written in pure C with SDL",
+                "inst": "",
+                "genres": [
+                    "rpg"
+                ],
+                "porter": "Bamboozler",
+                "image": {
+                    "screenshot": "images/dungeonrush.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "enigma.zip": {
+            "version": 1,
+            "source": "enigma.zip",
+            "items": [
+                "enigma/",
+                "Enigma.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Enigma",
+                "desc": "Enigma is a puzzle game inspired by Oxyd on the Atari ST and Rock'n'Roll on the Amiga",
+                "inst": "",
+                "genres": [
+                    "puzzle"
+                ],
+                "porter": "Bamboozler",
+                "image": {
+                    "screenshot": "images/enigma.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "exhumed.zip": {
+            "version": 1,
+            "source": "exhumed.zip",
+            "items": [
+                "Exhumed.sh",
+                "Exhumed/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Exhumed",
+                "desc": "A port of the PC version of Exhumed based on EDuke32.",
+                "inst": "You'll need to add your own full version STUFF.DAT, DEMO.VCR and BOOK.MOV files to the ports/Exhumed folder.",
+                "genres": [
+                    "fps",
+                    "action"
+                ],
+                "porter": "Romadu",
+                "image": {
+                    "screenshot": "images/exhumed.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "exult.zip": {
+            "version": 1,
+            "source": "exult.zip",
+            "items": [
+                "exult/",
+                "Exult-keyring.sh",
+                "Exult-nokeyring.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Exult",
+                "desc": "A port of Ultima 7.",
+                "inst": "You'll need A copy of the black gate and/or serpent isle added to ports/exult/data/blackgate and/or ports/exult/data/serpentisle.",
+                "genres": [
+                    "rpg"
+                ],
+                "porter": "nl255",
+                "image": {
+                    "screenshot": "images/exult.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "fade_to_black.zip": {
+            "version": 1,
+            "source": "fade_to_black.zip",
+            "items": [
+                "f2bgl/",
+                "F2bgl.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "F2bgl",
+                "desc": " A reimplementation of the Fade to Black game.",
+                "inst": "You will need the original files of the PC release or PC demo copied to the ports/f2bgl folder.",
+                "genres": [
+                    "action",
+                    "adventure"
+                ],
+                "porter": "Romadu",
+                "image": {
+                    "screenshot": "images/fade_to_black.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "falling_time.zip": {
+            "version": 1,
+            "source": "falling_time.zip",
+            "items": [
+                "Falling Time.sh",
+                "falling_time/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Falling Time",
+                "desc": "Arcade game inspired by Fall Down.  Falling Time files are already included and ready to go.",
+                "inst": "",
+                "genres": [
+                    "arcade"
+                ],
+                "porter": "Cebion",
+                "image": {
+                    "screenshot": "images/falling_time.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "fallout1.zip": {
+            "version": 1,
+            "source": "fallout1.zip",
+            "items": [
+                "Fallout 1.sh",
+                "fallout1/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Fallout 1",
+                "desc": "Fallout is a post nuclear RPG.",
+                "inst": "You need to copy critter.dat, master.dat and data from the original game to ports/fallout1 folder.",
+                "genres": [
+                    "rpg",
+                    "strategy"
+                ],
+                "porter": "Kloptops",
+                "image": {
+                    "screenshot": "images/fallout1.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "fallout2.zip": {
+            "version": 1,
+            "source": "fallout2.zip",
+            "items": [
+                "Fallout 2.sh",
+                "fallout2/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Fallout 2",
+                "desc": "Fallout 2 is a post nuclear RPG.",
+                "inst": "You need to copy critter.dat, master.dat, patch000.dat and data from the original game to ports/fallout2 folder.",
+                "genres": [
+                    "rpg",
+                    "strategy"
+                ],
+                "porter": "Orson",
+                "image": {
+                    "screenshot": "images/fallout2.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "flare.zip": {
+            "version": 1,
+            "source": "flare.zip",
+            "items": [
+                "Flare Engine.sh",
+                "flare/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Flare Engine",
+                "desc": "Flare is an open source, 2D action RPG. Its game play can be likened to the games in the Diablo series.  The game files are already included and ready to go.",
+                "inst": "",
+                "genres": [
+                    "action",
+                    "rpg"
+                ],
+                "porter": "Cebion",
+                "image": {
+                    "screenshot": "images/flare.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "fheroes2.zip": {
+            "version": 1,
+            "source": "fheroes2.zip",
+            "items": [
+                "fheroes2/",
+                "Fheroes2.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Free Heroes of Might and Magic II",
+                "desc": "A a recreation of Heroes of Might and Magic 2 game engine by Ihar Hubchyk.",
+                "inst": "Just add the data and maps folders from your full version GOG HOMM2 to the ports/fheroes2 folder or just launch Fheroes2 to download the demo files.",
+                "genres": [
+                    "strategy",
+                    "rpg"
+                ],
+                "porter": "romadu",
+                "image": {
+                    "screenshot": "images/fheroes2.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "freedom.planet.zip": {
+            "version": 1,
+            "source": "freedom.planet.zip",
+            "items": [
+                "Freedom Planet.sh",
+                "freedomplanet/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Freedom Planet",
+                "desc": "A combat-based platform adventure.",
+                "inst": "You must have a copy of Freedom Planet for Linux copied to the ports/freedomplanet/gamedata folder.",
+                "genres": [
+                    "action",
+                    "platformer"
+                ],
+                "porter": "Johnny on Flame",
+                "image": {
+                    "screenshot": "images/freedom.planet.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "freedroid.zip": {
+            "version": 1,
+            "source": "freedroid.zip",
+            "items": [
+                "Freedroid.sh",
+                "freedroid/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "FreedroidRPG",
+                "desc": "FreedroidRPG files are already included and ready to go.",
+                "inst": "",
+                "genres": [
+                    "rpg"
+                ],
+                "porter": "Cebion",
+                "image": {
+                    "screenshot": "images/freedroid.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "freegemas.zip": {
+            "version": 1,
+            "source": "freegemas.zip",
+            "items": [
+                "freegemas/",
+                "Freegemas.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Freegemas",
+                "desc": "Freegemas is an open source version of the well known Bejeweled.",
+                "inst": "",
+                "genres": [
+                    "puzzle"
+                ],
+                "porter": "Bamboozler",
+                "image": {
+                    "screenshot": "images/freegemas.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "freeserf.zip": {
+            "version": 1,
+            "source": "freeserf.zip",
+            "items": [
+                "FreeSerf.sh",
+                "freeserf/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "FreeSerf",
+                "desc": "FreeSerf is a faithful clone of the brilliant simulation game The Settlers 1 aka Serf City.",
+                "inst": "In order to play you need to copy the DOS data file is called SPAE.PA, SPAD.PA, SPAF.PA, or SPAU.PA, depending on the language of the game; or Amiga files gfxheader, gfxfast, gfxchip, gfxpics, sounds, and music. into ports/freeserf folder.",
+                "genres": [
+                    "strategy",
+                    "simulation"
+                ],
+                "porter": "Kloptops",
+                "image": {
+                    "screenshot": "images/freeserf.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "gemrb.zip": {
+            "version": 1,
+            "source": "gemrb.zip",
+            "items": [
+                "GemRB.sh",
+                "gemrb/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "GemRB",
+                "desc": "GemRB (Game Engine Made with preRendered Background) is a portable open-source reimplementation of the Infinity Engine that underpinned Baldur's Gate, Icewind Dale and Planescape: Torment.",
+                "inst": "Add your game files to the ports/gemrb/games/GAMEID directory, multiple games can be installed and you will get a choice of which game you want to play at launch.",
+                "genres": [
+                    "rpg",
+                    "strategy"
+                ],
+                "porter": "kloptops",
+                "image": {
+                    "screenshot": "images/gemrb.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "gigalomania.zip": {
+            "version": 1,
+            "source": "gigalomania.zip",
+            "items": [
+                "Gigalomania.sh",
+                "gigalomania/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Gigalomania",
+                "desc": "Gigalomania is an open source 2D Real Time Strategy god game.  Gigalomania files are already included and ready to go.",
+                "inst": "",
+                "genres": [
+                    "strategy"
+                ],
+                "porter": "Cebion",
+                "image": {
+                    "screenshot": "images/gigalomania.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "half-life.zip": {
+            "version": 1,
+            "source": "half-life.zip",
+            "items": [
+                "Half-Life.sh",
+                "Half-Life/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Half-Life",
+                "desc": "Half-Life is Valve's debut title which blends blends action and adventure with award-winning technology to create a frighteningly realistic world where players must think to survive.",
+                "inst": "You need to have your own copy of the game. You need to copy the steam valve directory from your steam installation into ports/Half-Life/valve directory. You can also run Half-Life Blue Shift/Opposing Forces by copying the contents of the bshift/gearbox steam files into their respective ports/Half-Life/ directory.",
+                "genres": [
+                    "fps",
+                    "action"
+                ],
+                "porter": "kloptops",
+                "image": {
+                    "screenshot": "images/half-life.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "heart.of.darkness.zip": {
+            "version": 1,
+            "source": "heart.of.darkness.zip",
+            "items": [
+                "Heart of Darkness.sh",
+                "hode/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Heart of Darkness",
+                "desc": "Heart of Darkness using the hode reimplementation of the engine developed by Amazing Studio.",
+                "inst": "Just add your own Heart of Darkness game files to the ports/hode/gamedata folder.",
+                "genres": [
+                    "action",
+                    "platformer"
+                ],
+                "porter": "Jetup",
+                "image": {
+                    "screenshot": "images/heart.of.darkness.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "hex-a-hop.zip": {
+            "version": 1,
+            "source": "hex-a-hop.zip",
+            "items": [
+                "Hex-A-Hop.sh",
+                "hex-a-hop/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Hex-A-Hop",
+                "desc": "Hex-a-hop is a puzzle game in which a girl has to destroy green hexagons by stepping on them.  Hex-a-Hop files are already included and ready to go.",
+                "inst": "",
+                "genres": [
+                    "puzzle"
+                ],
+                "porter": "Cebion",
+                "image": {
+                    "screenshot": "images/hex-a-hop.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "hexen2.zip": {
+            "version": 1,
+            "source": "hexen2.zip",
+            "items": [
+                "Hexen 2 - Portal of Praevus.sh",
+                "Hexen 2.sh",
+                "hexen2/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Hexen 2",
+                "desc": "Hexen II is a dark fantasy 1st-person shooter developed by Raven Software and published by id software.  Portal of Praevus features new levels, new enemies and a new playable character class, The Demoness.",
+                "inst": "You must copy your Hexen 2 pak0.pak and pak1.pak files into hexen2/data1 and your pak3.pak into hexen2/portals and make sure they're lowercase.",
+                "genres": [
+                    "fps",
+                    "action"
+                ],
+                "porter": "Slayer366",
+                "image": {
+                    "screenshot": "images/hexen2.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "hijinx.zip": {
+            "version": 1,
+            "source": "hijinx.zip",
+            "items": [
+                "Hijinx.sh",
+                "hijinx/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Hijinx",
+                "desc": "A game about platforming, curses, and turtles. Files are already included and ready to go.",
+                "inst": "",
+                "genres": [
+                    "puzzle"
+                ],
+                "porter": "Cebion",
+                "image": {
+                    "screenshot": "images/hijinx.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "hocoslamfy.zip": {
+            "version": 1,
+            "source": "hocoslamfy.zip",
+            "items": [
+                "Hocoslamfy.sh",
+                "hocoslamfy/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Hocoslamfy",
+                "desc": "You are a small bee and you must fly to avoid the bamboo shoots.  Hocoslamfy files are already included and ready to go.",
+                "inst": "",
+                "genres": [
+                    "platformer"
+                ],
+                "porter": "Cebion",
+                "image": {
+                    "screenshot": "images/hocoslamfy.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "hurrican.zip": {
+            "version": 1,
+            "source": "hurrican.zip",
+            "items": [
+                "hurrican/",
+                "Hurrican.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Hurrican",
+                "desc": "Turrican port by Thrimbor.",
+                "inst": "Just add the data and lang folders from here to the ports/hurrican folder or just launch Hurrican from the ports menu in Emulationstation and it will download the files and install them automatically.",
+                "genres": [
+                    "platformer"
+                ],
+                "porter": "romadu",
+                "image": {
+                    "screenshot": "images/hurrican.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "hydra.castle.labyrinth.zip": {
+            "version": 1,
+            "source": "hydra.castle.labyrinth.zip",
+            "items": [
+                "hcl/",
+                "Hydra Castle Labyrinth.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Hydra Castle Labyrinth",
+                "desc": "Hydra Castle Labyrinth is a platform game with some old school action. It's also reminiscent of games of the 16 bit era.",
+                "inst": "",
+                "genres": [
+                    "platformer"
+                ],
+                "porter": "Christian_Haitian",
+                "image": {
+                    "screenshot": "images/hydra.castle.labyrinth.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "iconoclasts.zip": {
+            "version": 1,
+            "source": "iconoclasts.zip",
+            "items": [
+                "iconoclasts/",
+                "Iconoclasts.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Iconoclasts",
+                "desc": "A platformer that offers fun and wacky gameplay.  Recommended only for 640x480 devices or better.  ",
+                "inst": "You must have a copy of Iconoclasts for Linux copied to the ports/iconoclasts/gamedata folder.  Be sure the folder contains subfolders named 32, 64 and data.",
+                "genres": [
+                    "action",
+                    "adventure"
+                ],
+                "porter": "Johnny on Flame",
+                "image": {
+                    "screenshot": "images/iconoclasts.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": [
+                    "640x480"
+                ]
+            }
+        },
+        "iichantra_pear.zip": {
+            "version": 1,
+            "source": "iichantra_pear.zip",
+            "items": [
+                "IIChantra P.E.A.R.sh",
+                "iichantra_pear/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "iiChantra",
+                "desc": "iiChantra is a cross-platform 2D-Action, \u00abretro\u00bb in style but modern in gameplay.  iiChantra files are already included and ready to go.",
+                "inst": "",
+                "genres": [
+                    "platformer"
+                ],
+                "porter": "Cebion",
+                "image": {
+                    "screenshot": "images/iichantra_pear.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "invaders.zip": {
+            "version": 1,
+            "source": "invaders.zip",
+            "items": [
+                "Invaders.sh",
+                "Invaders/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Invaders",
+                "desc": "A memory accurate reimplementation of Space Invaders by loadzero.",
+                "inst": "You'll need to provide your own invaders.e, invaders.f, invaders.g, and invaders.h files from a MAME_078 romset into the invaders/inv1 folder.",
+                "genres": [
+                    "action"
+                ],
+                "porter": "romadu",
+                "image": {
+                    "screenshot": "images/invaders.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "maldita.castilla.zip": {
+            "version": 1,
+            "source": "maldita.castilla.zip",
+            "items": [
+                "Maldita Castilla.sh",
+                "MalditaCastilla/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Maldita Castilla",
+                "desc": "An arcade action video game developed by Locomalito and released in December 2012.  The gameplay is inspired by the games Shinobi and Ghost and Goblins.",
+                "inst": "",
+                "genres": [
+                    "action",
+                    "adventure"
+                ],
+                "porter": "krishenriksen (kreal)",
+                "image": {
+                    "screenshot": "images/maldita.castilla.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "meritous.zip": {
+            "version": 1,
+            "source": "meritous.zip",
+            "items": [
+                "Meritous.sh",
+                "meritous/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Meritous",
+                "desc": "Action-adventure dungeon crawl game.  Meritous files are already included and ready to go.",
+                "inst": "",
+                "genres": [
+                    "action",
+                    "adventure"
+                ],
+                "porter": "Cebion",
+                "image": {
+                    "screenshot": "images/meritous.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "mightymike.zip": {
+            "version": 1,
+            "source": "mightymike.zip",
+            "items": [
+                "MightyMike.sh",
+                "mightymike/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Mighty Mike",
+                "desc": "This is Pangea Software's Mighty Mike (also known as Power Pete). Set in a toy store, this top-down action game is a staple of 90's Macintosh games.",
+                "inst": "",
+                "genres": [
+                    "platformer"
+                ],
+                "porter": "brooksytech",
+                "image": {
+                    "screenshot": "images/mightymike.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": [
+                    "opengl"
+                ]
+            }
+        },
+        "mirrormagic.zip": {
+            "version": 1,
+            "source": "mirrormagic.zip",
+            "items": [
+                "Mirror Magic.sh",
+                "mirrormagic/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Mirror Magic",
+                "desc": "Arcade style game for in the tradition of Deflektor (C 64) and Mindbender (Amiga).",
+                "inst": "",
+                "genres": [
+                    "puzzle"
+                ],
+                "porter": "Bamboozler",
+                "image": {
+                    "screenshot": "images/mirrormagic.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "moonlight.zip": {
+            "version": 1,
+            "source": "moonlight.zip",
+            "items": [
+                "moonlight/",
+                "Moonlight.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Moonlight",
+                "desc": "A free, open-source NVIDIA Gamestream Client.  For more info on the setup needs at https://github.com/christianhaitian/arkos/wiki/ArkOS-Emulators-and-Ports-information#moonlight-nvidia-gamestreaming-app-available-through-portmaster.",
+                "inst": "",
+                "genres": [
+                    "other"
+                ],
+                "porter": "Christian_Haitian",
+                "image": {
+                    "screenshot": "images/moonlight.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "mr.boom.zip": {
+            "version": 1,
+            "source": "mr.boom.zip",
+            "items": [
+                "Mr. Boom.sh",
+                "mrboom/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Mr Boom",
+                "desc": "A Bomberman clone.",
+                "inst": "",
+                "genres": [
+                    "action",
+                    "puzzle"
+                ],
+                "porter": "Christian_Haitian",
+                "image": {
+                    "screenshot": "images/mr.boom.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "multris.zip": {
+            "version": 1,
+            "source": "multris.zip",
+            "items": [
+                "multris/",
+                "Multris.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Multris",
+                "desc": "A version of Tetris with randomly generated polyominoes of varying sizes.",
+                "inst": "",
+                "genres": [
+                    "puzzle"
+                ],
+                "porter": "Bamboozler",
+                "image": {
+                    "screenshot": "images/multris.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "nam.zip": {
+            "version": 1,
+            "source": "nam.zip",
+            "items": [
+                "NAM.sh",
+                "rednukem-NAM/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "NAM",
+                "desc": "NAM using the rednukem build open source port by Alexey Khokholov.",
+                "inst": "You'll need to add your own full version NAM.GRP and NAM.RTS and .CON files and optionally CD audio tracks as OGG file in the format trackXX.ogg (where XX is the track number) to the ports/rednukem-NAM/gamedata folder.",
+                "genres": [
+                    "fps"
+                ],
+                "porter": "romadu",
+                "image": {
+                    "screenshot": "images/nam.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "nanosaur.zip": {
+            "version": 1,
+            "source": "nanosaur.zip",
+            "items": [
+                "Nanosaur.sh",
+                "nanosaur/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Nanosaur",
+                "desc": "This is Pangea Software\u2019s Nanosaur, which casts a cybernetic dinosaur from the future who\u2019s sent back in time 20 minutes before a giant asteroid hits the Earth.",
+                "inst": "",
+                "genres": [
+                    "fps"
+                ],
+                "porter": "brooksytech",
+                "image": {
+                    "screenshot": "images/nanosaur.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": [
+                    "opengl"
+                ]
+            }
+        },
+        "neverball.zip": {
+            "version": 1,
+            "source": "neverball.zip",
+            "items": [
+                "neverball/",
+                "Neverball.sh",
+                "Neverputt.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Neverball",
+                "desc": "Tilt the floor to roll a ball through an obstacle course within the given time. If the ball falls or time expires, a ball is lost. Includes Neverputt.",
+                "inst": "",
+                "genres": [
+                    "platformer",
+                    "puzzle"
+                ],
+                "porter": "Bamboozler",
+                "image": {
+                    "screenshot": "images/neverball.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "nkaruga.zip": {
+            "version": 1,
+            "source": "nkaruga.zip",
+            "items": [
+                "nkaruga/",
+                "nKaruga.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "nKaruga",
+                "desc": "A cool 2D bullet hell shooter.  Just download and play.",
+                "inst": "",
+                "genres": [
+                    "fps"
+                ],
+                "porter": "Jetup",
+                "image": {
+                    "screenshot": "images/nkaruga.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "openblok.zip": {
+            "version": 1,
+            "source": "openblok.zip",
+            "items": [
+                "openblok/",
+                "OpenBlok.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "OpenBlok",
+                "desc": "A customizable, cross platform, open-source falling block game, packed with a bunch of features.",
+                "inst": "",
+                "genres": [
+                    "puzzle"
+                ],
+                "porter": "Bamboozler",
+                "image": {
+                    "screenshot": "images/openblok.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "openclaw.zip": {
+            "version": 1,
+            "source": "openclaw.zip",
+            "items": [
+                "Openclaw.sh",
+                "openclaw/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "OpenClaw",
+                "desc": "A Reimplementation of the 1997 Captain Claw platformer.  Just download and play.",
+                "inst": "",
+                "genres": [
+                    "platformer"
+                ],
+                "porter": "Cebion",
+                "image": {
+                    "screenshot": "images/openclaw.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "openfodder.zip": {
+            "version": 1,
+            "source": "openfodder.zip",
+            "items": [
+                "OpenFodder.sh",
+                "openfodder/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "OpenFodder",
+                "desc": "Open Fodder is an open source version of the Cannon Fodder engine.",
+                "inst": "It comes with demo files, you can add the full version files by reading the included README.md",
+                "genres": [
+                    "strategy"
+                ],
+                "porter": "Kloptops",
+                "image": {
+                    "screenshot": "images/openfodder.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "openjazz.zip": {
+            "version": 1,
+            "source": "openjazz.zip",
+            "items": [
+                "openjazz/",
+                "OpenJazz.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "OpenJazz",
+                "desc": "A free, open-source version of the classic Jazz Jackrabbit games by Alister Thomson.",
+                "inst": "Includes the Jazz Jackrabiit shareware files. You can add your own full game Dos files to the ports/openjazz/gamedata folder.",
+                "genres": [
+                    "platformer"
+                ],
+                "porter": "Jetup",
+                "image": {
+                    "screenshot": "images/openjazz.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "openomf.zip": {
+            "version": 1,
+            "source": "openomf.zip",
+            "items": [
+                "openomf/",
+                "Openomf.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "OpenOMF",
+                "desc": "An Open Source remake of 'One Must Fall 2097' by Diversions Entertainment.",
+                "inst": "",
+                "genres": [
+                    "action"
+                ],
+                "porter": "Cebion",
+                "image": {
+                    "screenshot": "images/openomf.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "opentyrian.zip": {
+            "version": 1,
+            "source": "opentyrian.zip",
+            "items": [
+                "OpenTyrian.sh",
+                "opentyrian/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "OpenTyrian",
+                "desc": "OpenTyrian is an open-source port of the DOS game Tyrian.  OpenTyrian 2.1 files are already included as they were made freeware sometime ago.",
+                "inst": "",
+                "genres": [
+                    "fps"
+                ],
+                "porter": "Christian_Haitian",
+                "image": {
+                    "screenshot": "images/opentyrian.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "openrct2.zip": {
+            "version": 1,
+            "source": "openrct2.zip",
+            "items": [
+                "OpenRCT2.sh",
+                "openrct2/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "OpenRCT2",
+                "desc": "OpenRCT2 is Open source re-implementation of RollerCoaster Tycoon 2.",
+                "inst": "Add your Roller Coaster Tycoon 2 game files to the ports/openrct2/RCT2 directory, and optionally add your Roller Coaster Tycoon 1 files to ports/openrct2/RCT1",
+                "genres": [
+                    "simulation"
+                ],
+                "porter": "Kloptops",
+                "image": {
+                    "screenshot": "images/openrct2.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "openxcom.zip": {
+            "version": 1,
+            "source": "openxcom.zip",
+            "items": [
+                "openxcom/",
+                "OpenXcomEX.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "OpenXcom Extended",
+                "desc": "OXCE is an open source engine for running XCOM:Ufo Defense and Terror From the Deep.",
+                "inst": "You will need to provide your own UFO Defense/TFTD game files.  Read the README-port.txt file for details.",
+                "genres": [
+                    "strategy"
+                ],
+                "porter": "nl255",
+                "image": {
+                    "screenshot": "images/openxcom.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "ottomatic.zip": {
+            "version": 1,
+            "source": "ottomatic.zip",
+            "items": [
+                "OttoMatic.sh",
+                "ottomatic/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Otto Matic",
+                "desc": "This is Pangea Software\u2019s Otto Matic. Take control of the robot Otto Matic and save earth from aliens from Planet X",
+                "inst": "",
+                "genres": [
+                    "action",
+                    "adventure"
+                ],
+                "porter": "brooksytech",
+                "image": {
+                    "screenshot": "images/ottomatic.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": [
+                    "opengl"
+                ]
+            }
+        },
+        "oddworld.zip": {
+            "version": 1,
+            "source": "oddworld.zip",
+            "items": [
+                "Oddworld Abes Oddysee.sh",
+                "Oddworld Abes Exoddus.sh",
+                "relive/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Oddworld: Abes Oddysee Exoddus",
+                "desc": "It is a platformer with puzzle-solving elements.",
+                "inst": "You need to copy all .lvl and .ddv files (and sound.dat for Exoddus) from the original game(s) to either ports/oddysee or ports/exoddus directory.",
+                "genres": [
+                    "action",
+                    "adventure"
+                ],
+                "porter": "Orson",
+                "image": {
+                    "screenshot": "images/oddworld.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "owlboy.zip": {
+            "version": 1,
+            "source": "owlboy.zip",
+            "items": [
+                "owlboy/",
+                "Owlboy.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Owlboy",
+                "desc": "A story-driven platform adventure game, where you can fly and explore a brand new world in the clouds.  Text is not readable on devices with screens less than 5 inches.",
+                "inst": "You must have a copy of Owlboy for Linux copied to the ports/owlboy/gamedata folder.",
+                "genres": [
+                    "action",
+                    "adventure"
+                ],
+                "porter": "Johnny on Flame",
+                "image": {
+                    "screenshot": "images/owlboy.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": "mono-6.12.0.122-aarch64.squashfs",
+                "reqs": []
+            }
+        },
+        "pekka-kana-2.zip": {
+            "version": 1,
+            "source": "pekka-kana-2.zip",
+            "items": [
+                "Pekka Kana 2.sh",
+                "pekka-kana-2/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Pekka Kana 2",
+                "desc": "Pekka Kana 2 (Pekka the Rooster 2) is a jump 'n run game made in the spirit of old classic platformers such as Super Mario, Sonic the Hedgehog, Jazz Jackrabbit, Super Frog and so on. Pekka Kana 2 files are already included and ready to go.",
+                "inst": "",
+                "genres": [
+                    "platformer"
+                ],
+                "porter": "Cebion",
+                "image": {
+                    "screenshot": "images/pekka-kana-2.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "powder.zip": {
+            "version": 1,
+            "source": "powder.zip",
+            "items": [
+                "Powder.sh",
+                "powder/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Powder",
+                "desc": "A roguelike is a dungeon crawler where no two games are the same. The maps are different, the items are different, there are no guaranteed win paths.  Powder files are already included and ready to go.",
+                "inst": "",
+                "genres": [
+                    "rpg"
+                ],
+                "porter": "Cebion",
+                "image": {
+                    "screenshot": "images/powder.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "prehistorik.2.zip": {
+            "version": 1,
+            "source": "prehistorik.2.zip",
+            "items": [
+                "Prehistorik 2.sh",
+                "prehistorik2/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Prehistorik 2",
+                "desc": "A caveman-era platform game using the Blues Brothers game engine developed by Titus Interactive.",
+                "inst": "Includes the demo files.  You can add your own full game Dos files to the ports/prehistorik2/gamedata folder.",
+                "genres": [
+                    "platformer"
+                ],
+                "porter": "Jetup",
+                "image": {
+                    "screenshot": "images/prehistorik.2.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "quake.zip": {
+            "version": 1,
+            "source": "quake.zip",
+            "items": [
+                "quake/",
+                "Quake.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Quake 1",
+                "desc": "Quake 1 is one of the first fully 3D First-person shooter games released by id software.",
+                "inst": "Includes shareware pak file.  You can add your own full game pak files to the ports/quake/quakepaks/id1 folder.",
+                "genres": [
+                    "fps"
+                ],
+                "porter": "Christian_Haitian",
+                "image": {
+                    "screenshot": "images/quake.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "quake.2.zip": {
+            "version": 1,
+            "source": "quake.2.zip",
+            "items": [
+                "Quake 2.sh",
+                "quake2/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Quake 2",
+                "desc": "Quake 2 is the sequel to Quake 1, one of the first fully 3D First-person shooter games released by id software.",
+                "inst": "You need to add your own full game pak files to the ports/quake2/baseq2 folder.",
+                "genres": [
+                    "fps"
+                ],
+                "porter": "romadu",
+                "image": {
+                    "screenshot": "images/quake.2.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "quake3.zip": {
+            "version": 1,
+            "source": "quake3.zip",
+            "items": [
+                "Quake 3.sh",
+                "quake3/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Quake 3",
+                "desc": "Quake III Arena is a 1999 multiplayer-focused first-person shooter developed by id Software.",
+                "inst": "You need to add your own full game pak files and product key to the ports/quake3/baseq3 folder.",
+                "genres": [
+                    "fps"
+                ],
+                "porter": "brooksytech",
+                "image": {
+                    "screenshot": "images/quake3.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "rawgl.zip": {
+            "version": 1,
+            "source": "rawgl.zip",
+            "items": [
+                "RAWGL.sh",
+                "rawgl/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "RAWGL",
+                "desc": "A re-implementation of the engine used in the game Another World aka Out of this World in the US.  Includes the Out of this World demo files.",
+                "inst": "You can add your own full game files to the ports/rawgl/gamedata/ folder.  See https://github.com/cyxx/rawgl#supported-versions for more supported files info.",
+                "genres": [
+                    "action",
+                    "adventure"
+                ],
+                "porter": "Jetup",
+                "image": {
+                    "screenshot": "images/rawgl.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "redneck.rampage.zip": {
+            "version": 1,
+            "source": "redneck.rampage.zip",
+            "items": [
+                "Redneck Rampage.sh",
+                "rednukem-redneck1/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Redneck Rampage 1",
+                "desc": "Redneck Rampage 1 using the rednukem build open source port by Alexey Khokholov.",
+                "inst": "You'll need to add your own full version REDNECK.GRP and REDNECK.RTS and .CON files and optionally CD audio tracks as OGG file in the format trackXX.ogg (where XX is the track number) to the ports/rednukem-redneck1/gamedata folder.",
+                "genres": [
+                    "fps"
+                ],
+                "porter": "romadu",
+                "image": {
+                    "screenshot": "images/redneck.rampage.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "redneck.rampage.rides.again.zip": {
+            "version": 1,
+            "source": "redneck.rampage.rides.again.zip",
+            "items": [
+                "Redneck Rampage Rides Again.sh",
+                "rednukem-redneck2/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Redneck Rampage 2",
+                "desc": "Redneck Rampage 2 using the rednukem build open source port by Alexey Khokholov.",
+                "inst": " You'll need to add your own full version REDNECK.GRP and REDNECK.RTS and .CON files and optionally CD audio tracks as OGG file in the format trackXX.ogg (where XX is the track number) to the ports/rednukem-redneck2/gamedata folder.",
+                "genres": [
+                    "fps"
+                ],
+                "porter": "romadu",
+                "image": {
+                    "screenshot": "images/redneck.rampage.rides.again.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "reminiscence.zip": {
+            "version": 1,
+            "source": "reminiscence.zip",
+            "items": [
+                "reminiscence/",
+                "REminiscence.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Reminiscence",
+                "desc": "A reimplementation of the Flashback game using the reminiscence engine by Alex Chermenin.",
+                "inst": "You will need the original files of the PC version copied to ports/reminiscence/gamedata folder.",
+                "genres": [
+                    "action",
+                    "adventure"
+                ],
+                "porter": "jetup and romadu",
+                "image": {
+                    "screenshot": "images/reminiscence.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "iortcw.zip": {
+            "version": 1,
+            "source": "iortcw.zip",
+            "items": [
+                "iortcw/",
+                "Return to Castle Wolfenstein.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Return to Castle Wolfenstein",
+                "desc": "Return to Castle Wolfenstein using the iortcw project.  With porting work done by JohnnyonFlame.  Packaged by Romadu.",
+                "inst": "You'll need to add your own pak0.pk3, sp_pak1.pk3, sp_pak2.pk3, and sp_pak3.pk3 to the ports/iortcw/main folder.",
+                "genres": [
+                    "fps"
+                ],
+                "porter": "JohnnyonFlame",
+                "image": {
+                    "screenshot": "images/iortcw.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "rick.dangerous.zip": {
+            "version": 1,
+            "source": "rick.dangerous.zip",
+            "items": [
+                "Rick Dangerous.sh",
+                "xrick/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Rick Dangerous",
+                "desc": "An open source implementation of the legendary game \"Rick Dangerous\" using the xrick libretro retroarch core.  All necessary files are already included.",
+                "inst": "",
+                "genres": [
+                    "action",
+                    "adventure"
+                ],
+                "porter": "Christian_Haitian",
+                "image": {
+                    "screenshot": "images/rick.dangerous.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "ri_li.zip": {
+            "version": 1,
+            "source": "ri_li.zip",
+            "items": [
+                "Ri-Li.sh",
+                "ri_li/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Ri-li",
+                "desc": "A simple and fun arcade-style game in which you control a wooden toy train and collect wooden letters while avoiding obstacles.  Just download and play.",
+                "inst": "",
+                "genres": [
+                    "puzzle"
+                ],
+                "porter": "Cebion",
+                "image": {
+                    "screenshot": "images/ri_li.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "rigelengine.zip": {
+            "version": 1,
+            "source": "rigelengine.zip",
+            "items": [
+                "RigelEngine/",
+                "RigelEngine.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Rigel Engine",
+                "desc": "A modern re-implementation of the classic DOS game Duke Nukem II.",
+                "inst": "You'll need to add your own full game files to the ports/RigelEngine/ folder.",
+                "genres": [
+                    "action"
+                ],
+                "porter": "romadu",
+                "image": {
+                    "screenshot": "images/rigelengine.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "rott.zip": {
+            "version": 1,
+            "source": "rott.zip",
+            "items": [
+                "rott/",
+                "ROTT.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Rise Of The Triad",
+                "desc": "An open source port of Rise of the Triad by icculus.",
+                "inst": "The demo files are already included.",
+                "genres": [
+                    "fps"
+                ],
+                "porter": "romadu",
+                "image": {
+                    "screenshot": "images/rott.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "rlvm.zip": {
+            "version": 1,
+            "source": "rlvm.zip",
+            "items": [
+                "Rlvm.sh",
+                "rlvm/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Rlvm",
+                "desc": "Rlvm is a Free Software reimplementation of the Key RealLive interpreter for Visual Novels. Notable games include CLANNAD, AIR, & KANON.",
+                "inst": "Add your game files to the ports/rlvm/games/GAME_NAME directory, multiple games can be installed and you will get a choice of which game you want to play at launch. HD Releases do not currently work properly.",
+                "genres": [
+                    "simulation",
+                    "visual novel"
+                ],
+                "porter": "kloptops",
+                "image": {
+                    "screenshot": "images/rlvm.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "rocksndiamonds.zip": {
+            "version": 1,
+            "source": "rocksndiamonds.zip",
+            "items": [
+                "Rocks n Diamonds.sh",
+                "rocksndiamonds/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Rocks N Diamonds",
+                "desc": "A Boulderdash type game by Holger Schemel with many unique features, such as the ability to play remade levels from Boulderdash, Emerald Mine and Supaplex and many more levels.",
+                "inst": "",
+                "genres": [
+                    "puzzle"
+                ],
+                "porter": "Christian_Haitian",
+                "image": {
+                    "screenshot": "images/rocksndiamonds.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "rvgl.zip": {
+            "version": 1,
+            "source": "rvgl.zip",
+            "items": [
+                "rvgl/",
+                "RVGL.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "RVGL",
+                "desc": "An open source port of Re-Volt by the RV Team. Necessary files will be downloaded and installed upon initial launch while connected to the internet.",
+                "inst": "",
+                "genres": [
+                    "racing"
+                ],
+                "porter": "romadu",
+                "image": {
+                    "screenshot": "images/rvgl.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "shadow.warrior.zip": {
+            "version": 1,
+            "source": "shadow.warrior.zip",
+            "items": [
+                "Shadow Warrior.sh",
+                "shadow-warrior/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Shadow Warrior",
+                "desc": "Shadow Warrior open source port by Jonathan Fowler.",
+                "inst": "You'll need to add your own full version SW.GRP and SW.RTS Shadow Warrior files to the ports/shadow-warrior folder.",
+                "genres": [
+                    "fps"
+                ],
+                "porter": "Romadu",
+                "image": {
+                    "screenshot": "images/shadow.warrior.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "shipwreck.zip": {
+            "version": 1,
+            "source": "shipwreck.zip",
+            "items": [
+                "shipwreck/",
+                "Shipwreck.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Shipwreck",
+                "desc": "Shipwreck is a top down adventure game in which you must travel the land, explore dungeons, and defeat monsters to earn safe passage off the island on which you are stranded.  Note there are several games called Shipwreck, this is the one by Brushfire Games.",
+                "inst": "You must have a copy of Shipwreck for Linux copied to the ports/shipwreck/gamedata folder.",
+                "genres": [
+                    "adventure"
+                ],
+                "porter": "jtothebell",
+                "image": {
+                    "screenshot": "images/shipwreck.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": "mono-6.12.0.122-aarch64.squashfs",
+                "reqs": []
+            }
+        },
+        "shovel.knight.zip": {
+            "version": 1,
+            "source": "shovel.knight.zip",
+            "items": [
+                "Shovel Knight.sh",
+                "shovelknight/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Shovel Knight Treasure Trove",
+                "desc": "Shovel Knight Treasure Trove loader.",
+                "inst": "You must have a copy of Shovel Knight Treasure Trove for Linux copied to the ports/shovelknight/gamedata folder.  For more info on the setup needs, see https://github.com/christianhaitian/arkos/wiki/ArkOS-Emulators-and-Ports-information",
+                "genres": [
+                    "action",
+                    "adventure"
+                ],
+                "porter": "Johnny on Flame",
+                "image": {
+                    "screenshot": "images/shovel.knight.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "simplesokoban.zip": {
+            "version": 1,
+            "source": "simplesokoban.zip",
+            "items": [
+                "Simple Sokoban.sh",
+                "simplesok/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Simple Sokoban",
+                "desc": "Simple Sokoban is a simple Sokoban game that supports animated movements,unlimited level solutions, unlimited undos and more. It does not have any sound",
+                "inst": "",
+                "genres": [
+                    "puzzle"
+                ],
+                "porter": "Bamboozler",
+                "image": {
+                    "screenshot": "images/simplesokoban.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "sdlpop.zip": {
+            "version": 1,
+            "source": "sdlpop.zip",
+            "items": [
+                "sdlpop/",
+                "SDLPoP.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "SDLPoP",
+                "desc": "An open-source port of Prince of Persia, based on the disassembly of the DOS version, extended with new features by NagyD",
+                "inst": "",
+                "genres": [
+                    "platformer"
+                ],
+                "porter": "Christian_Haitian",
+                "image": {
+                    "screenshot": "images/sdlpop.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "skijump3.zip": {
+            "version": 1,
+            "source": "skijump3.zip",
+            "items": [
+                "skijump3/",
+                "Skijump3.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "SkiJump3",
+                "desc": "Ski Jump International v3",
+                "inst": "",
+                "genres": [
+                    "sports"
+                ],
+                "porter": "Cebion",
+                "image": {
+                    "screenshot": "images/skijump3.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "sonic.1.zip": {
+            "version": 1,
+            "source": "sonic.1.zip",
+            "items": [
+                "Sonic 1.sh",
+                "sonic1/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Sonic 1",
+                "desc": "Sonic the Hedgehog 1 decompilation by Rubberduckycooly.",
+                "inst": "Just add your own android Data.rsdk file to the ports/sonic1 folder.  See the wiki for more info on this",
+                "genres": [
+                    "platformer"
+                ],
+                "porter": "Christian_Haitian",
+                "image": {
+                    "screenshot": "images/sonic.1.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "sonic.2.zip": {
+            "version": 1,
+            "source": "sonic.2.zip",
+            "items": [
+                "Sonic 2.sh",
+                "sonic2/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Sonic 2",
+                "desc": "Sonic the Hedgehog 2 decompilation by Rubberduckycooly.",
+                "inst": "Just add your own android Data.rsdk file to the ports/sonic2 folder.  See the wiki for more info on this",
+                "genres": [
+                    "platformer"
+                ],
+                "porter": "Christian_Haitian",
+                "image": {
+                    "screenshot": "images/sonic.2.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "sonic.cd.zip": {
+            "version": 1,
+            "source": "sonic.cd.zip",
+            "items": [
+                "Sonic CD.sh",
+                "soniccd/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Sonic CD",
+                "desc": "Sonic the Hedgehog CD decompilation by Rubberduckycooly.",
+                "inst": "Just add your own android Data.rsdk file to the ports/soniccd folder.  See the wiki for more info on this",
+                "genres": [
+                    "platformer"
+                ],
+                "porter": "Christian_Haitian",
+                "image": {
+                    "screenshot": "images/sonic.cd.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "sonic.mania.zip": {
+            "version": 1,
+            "source": "sonic.mania.zip",
+            "items": [
+                "Sonic Mania.sh",
+                "sonicmania/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Sonic Mania",
+                "desc": "Sonic the Hedgehog Mania decompilation by Rubberduckycooly.",
+                "inst": "Just add your own android Data.rsdk file to the ports/sonicmania folder.  See the wiki for more info on this",
+                "genres": [
+                    "platformer"
+                ],
+                "porter": "TheGammaSqueeze",
+                "image": {
+                    "screenshot": "images/sonic.mania.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "srb2.zip": {
+            "version": 1,
+            "source": "srb2.zip",
+            "items": [
+                "SRB2/",
+                "SRB2.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Sonic Robo Blast 2",
+                "desc": "Sonic Robo Blast 2 fangame by Sonic Team Junior.  All necessary files are already included.  !!!Warning!!! This is a 184MB package and will take a while to download and install.",
+                "inst": "",
+                "genres": [
+                    "fps"
+                ],
+                "porter": "romadu",
+                "image": {
+                    "screenshot": "images/srb2.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "srb2kart.zip": {
+            "version": 1,
+            "source": "srb2kart.zip",
+            "items": [
+                "Sonic Robo Blast 2 Kart.sh",
+                "srb2kart/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Sonic RB2 Kart",
+                "desc": "Sonic Robo Blast 2 Kart fangame by Sonic Team Junior.  All necessary files are already included.  !!!Warning!!! This is a 184MB package and will take a while to download and install.",
+                "inst": "",
+                "genres": [
+                    "racing"
+                ],
+                "porter": "romadu",
+                "image": {
+                    "screenshot": "images/srb2kart.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "sorr.zip": {
+            "version": 1,
+            "source": "sorr.zip",
+            "items": [
+                "sorr/",
+                "SorR.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "SorR",
+                "desc": "Streets of Rage Remake.",
+                "inst": "Just add your own sorr.dat file, mod folder, and palettes folder into the ports/sorr folder.  See the wiki for more info on this",
+                "genres": [
+                    "action"
+                ],
+                "porter": "Christian_Haitian",
+                "image": {
+                    "screenshot": "images/sorr.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "space.cadet.pinball.zip": {
+            "version": 1,
+            "source": "space.cadet.pinball.zip",
+            "items": [
+                "Space Cadet Pinball.sh",
+                "spacecadetpinball/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Space Cadet Pinball",
+                "desc": "A reversed engineered version Space Cadet Pinball.  ",
+                "inst": "Just add your own Space Cadet Pinball PINBALL.DAT files and sound files to the spacecadetpinball folder.",
+                "genres": [
+                    "casino/card"
+                ],
+                "porter": "Jetup and Romadu",
+                "image": {
+                    "screenshot": "images/space.cadet.pinball.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "spelunky.zip": {
+            "version": 1,
+            "source": "spelunky.zip",
+            "items": [
+                "spelunky/",
+                "Spelunky.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Spelunky",
+                "desc": "Spelunky Classic HD.  A modified version of Derek Yu's game Spelunky Classic. Based on the source code published in Humble Weekly Bundle: Play and Create with GameMaker (not original 1.1 release).",
+                "inst": "",
+                "genres": [
+                    "platformer"
+                ],
+                "porter": "Christian_Haitian",
+                "image": {
+                    "screenshot": "images/spelunky.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "starcatcher.zip": {
+            "version": 1,
+            "source": "starcatcher.zip",
+            "items": [
+                "Starcatcher.sh",
+                "starcatcher/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Starcatcher",
+                "desc": "Starcatcher is a platformer inspired by Kirby, Metroid, Gravitron Experiment. Your goal: Collect stars in outer space.",
+                "inst": "",
+                "genres": [
+                    "platformer"
+                ],
+                "porter": "Cebion",
+                "image": {
+                    "screenshot": "images/starcatcher.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "stardewvalley.zip": {
+            "version": 1,
+            "source": "stardewvalley.zip",
+            "items": [
+                "stardewvalley/",
+                "StardewValley.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Stardew Valley",
+                "desc": "An open-ended country-life RPG!",
+                "inst": "You must have a copy of the compatibility version of Stardew Valley copied to the ports/stardewvalley/gamedata folder.",
+                "genres": [
+                    "simulation",
+                    "rpg"
+                ],
+                "porter": "Johnny on Flame",
+                "image": {
+                    "screenshot": "images/stardewvalley.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": "mono-6.12.0.122-aarch64.squashfs",
+                "reqs": []
+            }
+        },
+        "steelassault.zip": {
+            "version": 1,
+            "source": "steelassault.zip",
+            "items": [
+                "steelassault/",
+                "SteelAssault.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Steel Assault",
+                "desc": "Punch, whip, and zipline your way through a post-apocalyptic America in this 16-bit retro-style action platformer!",
+                "inst": "You must have a copy of Steel Assault for Linux copied to the ports/steelassault/gamedata folder.",
+                "genres": [
+                    "action",
+                    "platformer"
+                ],
+                "porter": "Johnny on Flame",
+                "image": {
+                    "screenshot": "images/steelassault.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": "mono-6.12.0.122-aarch64.squashfs",
+                "reqs": [
+                    "power"
+                ]
+            }
+        },
+        "super.mario.war.zip": {
+            "version": 1,
+            "source": "super.mario.war.zip",
+            "items": [
+                "smw/",
+                "Super Mario War.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Super Mario War",
+                "desc": "Super Mario War is a fan-made multiplayer Super Mario Bros. style deathmatch game in which players try to beat one another in a variety of gameplay modes.  Great fun even in single player mode.",
+                "inst": "",
+                "genres": [
+                    "platformer"
+                ],
+                "porter": "Christian_Haitian",
+                "image": {
+                    "screenshot": "images/super.mario.war.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "jediacademy.zip": {
+            "version": 1,
+            "source": "jediacademy.zip",
+            "items": [
+                "JediAcademy/",
+                "Star Wars Jedi Knight - Jedi Academy.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Star Wars Jedi Knight - Jedi Academy",
+                "desc": "An open source port of Jedi Academy using OpenJK by the JACoders team. Originally developed by Raven Software.",
+                "inst": "You need to add your own full game pak files to the ports/JediAcademy/base folder.",
+                "genres": [
+                    "fps"
+                ],
+                "porter": "brooksytech",
+                "image": {
+                    "screenshot": "images/jediacademy.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": [
+                    "power"
+                ]
+            }
+        },
+        "jedioutcast.zip": {
+            "version": 1,
+            "source": "jedioutcast.zip",
+            "items": [
+                "JediOutcast/",
+                "Star Wars Jedi Knight II - Jedi Outcast.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Star Wars Jedi Knight II - Jedi Outcast",
+                "desc": "An open source port of Jedi Outcast using OpenJK by the JACoders team. Originally developed by Raven Software.",
+                "inst": "You need to add your own full game pak files to the ports/JediOutcast/base folder.",
+                "genres": [
+                    "fps"
+                ],
+                "porter": "brooksytech",
+                "image": {
+                    "screenshot": "images/jedioutcast.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": [
+                    "power"
+                ]
+            }
+        },
+        "supertux.zip": {
+            "version": 1,
+            "source": "supertux.zip",
+            "items": [
+                "supertux/",
+                "SuperTux.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "SuperTux",
+                "desc": "SuperTux is a jump'n'run game with strong inspiration from the Super Mario Bros. games for the various Nintendo platforms.  !!!Warning!!! This is a 169MB package and will take a while to download and install.",
+                "inst": "",
+                "genres": [
+                    "platformer"
+                ],
+                "porter": "Christian_Haitian",
+                "image": {
+                    "screenshot": "images/supertux.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "tamatool.zip": {
+            "version": 1,
+            "source": "tamatool.zip",
+            "items": [
+                "tamatool/",
+                "Tamatool.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Tamatool",
+                "desc": "Tamatool is a Tamagotchi P1 emulator. Tamatool requires a compatible Tamagotchi P1 ROM called rom.bin in its folder",
+                "inst": "",
+                "genres": [
+                    "simulation"
+                ],
+                "porter": "Bamboozler",
+                "image": {
+                    "screenshot": "images/tamatool.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "tileworld.zip": {
+            "version": 1,
+            "source": "tileworld.zip",
+            "items": [
+                "Tile World (Chip's Challenge).sh",
+                "Tile World (Natural Theme Mod).sh",
+                "tileworld/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Tile World",
+                "desc": "Tile World is a source port clone of Chip's Challenge.  To play the original Chip's Challenge levels, copy your \"chips.dat\" into 'ports/tileworld/data' and make sure it's lowercase.  The almost complete SDL2 conversion used: github.com/rangeli/tileworld",
+                "inst": "",
+                "genres": [
+                    "puzzle"
+                ],
+                "porter": "Slayer366",
+                "image": {
+                    "screenshot": "images/tileworld.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "timespinner.zip": {
+            "version": 1,
+            "source": "timespinner.zip",
+            "items": [
+                "timespinner/",
+                "Timespinner.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Timespinner",
+                "desc": "Travel back in time to change fate itself, in this beautifully crafted story-driven adventure, inspired by classic 90s action-platformers.  You must have a copy of Timespinner for Linux copied to the ports/timespinner/gamedata folder.",
+                "inst": "",
+                "genres": [
+                    "action",
+                    "adventure"
+                ],
+                "porter": "Johnny on Flame",
+                "image": {
+                    "screenshot": "images/timespinner.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": "mono-6.12.0.122-aarch64.squashfs",
+                "reqs": []
+            }
+        },
+        "tiny-crate.zip": {
+            "version": 1,
+            "source": "tiny-crate.zip",
+            "items": [
+                "Tiny Crate.sh",
+                "tiny-crate/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Tiny Crate",
+                "desc": "Tiny Crate is a cute little precision platformer with puzzle elements! Lift and toss crates to traverse over spike pits and reach higher ground! Push yourself and make tight jumps! You got this!",
+                "inst": "",
+                "genres": [
+                    "puzzle"
+                ],
+                "porter": "Cebion",
+                "image": {
+                    "screenshot": "images/tiny-crate.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "titan_tactics.zip": {
+            "version": 1,
+            "source": "titan_tactics.zip",
+            "items": [
+                "Titan Tactics.sh",
+                "titan_tactics/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Titan Tactics",
+                "desc": "A follow up to Pocket Tactics, Titan Tactics is inspired by the awesome tactic games of the 90s. Fight with your allies and uncover the mysteries of the kingdoms of Tyrmyr and Skathi!",
+                "inst": "",
+                "genres": [
+                    "strategy"
+                ],
+                "porter": "Cebion",
+                "image": {
+                    "screenshot": "images/titan_tactics.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "tomb.raider.1.zip": {
+            "version": 1,
+            "source": "tomb.raider.1.zip",
+            "items": [
+                "Tomb Raider 1.sh",
+                "tombraider1/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Tomb Raider 1",
+                "desc": "An open source port of Tomb Raider 1 using OpenLara engine by xProger.",
+                "inst": "Just add your steam or gog Tomb Raider 1 files to the ports/tombraider1 folder.",
+                "genres": [
+                    "action",
+                    "adventure"
+                ],
+                "porter": "Jetup",
+                "image": {
+                    "screenshot": "images/tomb.raider.1.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "ultimatetapankaikki.zip": {
+            "version": 1,
+            "source": "ultimatetapankaikki.zip",
+            "items": [
+                "Ultimatetapankaikki.sh",
+                "ultimatetapankaikki/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Ultimate Tapan Kaikki",
+                "desc": "A simple top-down shooter.  Just download and play.",
+                "inst": "",
+                "genres": [
+                    "action"
+                ],
+                "porter": "Cebion",
+                "image": {
+                    "screenshot": "images/ultimatetapankaikki.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "undertale.zip": {
+            "version": 1,
+            "source": "undertale.zip",
+            "items": [
+                "undertale/",
+                "Undertale.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Undertale",
+                "desc": "Undertale loader. ",
+                "inst": "You must have a copy of Undertale Linux version assets copied to the ports/undertale/assets folder.  For more info on the setup needs, see https://github.com/christianhaitian/arkos/wiki/ArkOS-Emulators-and-Ports-information",
+                "genres": [
+                    "rpg"
+                ],
+                "porter": "krishenriksen (kreal)",
+                "image": {
+                    "screenshot": "images/undertale.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "uqm.zip": {
+            "version": 1,
+            "source": "uqm.zip",
+            "items": [
+                "UQM/",
+                "UQM.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Ur-Quan Masters",
+                "desc": "The Ur-Quan Masters is a 2002 open source fangame modification, based on the action-adventure science fiction game Star Control II.  !!!Warning!!! This is a 369MB package and will take a while to download and install.",
+                "inst": "",
+                "genres": [
+                    "strategy"
+                ],
+                "porter": "romadu",
+                "image": {
+                    "screenshot": "images/uqm.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "vanillara.zip": {
+            "version": 1,
+            "source": "vanillara.zip",
+            "items": [
+                "VanillaRA.sh",
+                "vanillara/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "VanillaRA",
+                "desc": "Vanilla Conquer is a fully portable version Command and Conquer Red Alert.",
+                "inst": "The game comes with the demo files, read the README for detailed information on installing the full game.",
+                "genres": [
+                    "strategy"
+                ],
+                "porter": "kloptops and Snoopy",
+                "image": {
+                    "screenshot": "images/vanillara.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "vanillatd.zip": {
+            "version": 1,
+            "source": "vanillatd.zip",
+            "items": [
+                "VanillaTD.sh",
+                "vanillatd/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "VanillaTD",
+                "desc": "Vanilla Conquer is a fully portable version Command and Conquer Tiberium Dawn.",
+                "inst": "The game comes with the demo files, read the README for detailed information on installing the full game.",
+                "genres": [
+                    "strategy"
+                ],
+                "porter": "kloptops and Snoopy",
+                "image": {
+                    "screenshot": "images/vanillatd.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "vcmi.zip": {
+            "version": 1,
+            "source": "vcmi.zip",
+            "items": [
+                "VCMI.sh",
+                "vcmi/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "VCMI",
+                "desc": "VCMI is a fully portable version of Heroes of Might and Magic III.",
+                "inst": "Copy the GoG installer files to ports/vcmi and it will install the game files as required, see the README for more information.",
+                "genres": [
+                    "strategy",
+                    "rpg"
+                ],
+                "porter": "kloptops",
+                "image": {
+                    "screenshot": "images/vcmi.screenshot.jpg"
+                },
+                "rtr": false,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "vvvvvv.zip": {
+            "version": 1,
+            "source": "vvvvvv.zip",
+            "items": [
+                "VVVVVV/",
+                "VVVVVV.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "VVVVVV",
+                "desc": "VVVVVV is a 2010 puzzle-platform game created by Terry Cavanagh.  The free Make and Play Edition data.zip file is already included.",
+                "inst": "You can also add your own purchased copy of the data.zip from your VVVVVV into the ports/VVVVVV folder if you prefer that version instead.",
+                "genres": [
+                    "platformer"
+                ],
+                "porter": "Christian_Haitian",
+                "image": {
+                    "screenshot": "images/vvvvvv.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "wetspot2.zip": {
+            "version": 1,
+            "source": "wetspot2.zip",
+            "items": [
+                "Wetspot2.sh",
+                "wetspot2/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Wetspot 2",
+                "desc": "A port of QuickBasic 4.5 game Wetspot 2 by Angelo Mottola.  Just download and play.",
+                "inst": "",
+                "genres": [
+                    "action"
+                ],
+                "porter": "Cebion",
+                "image": {
+                    "screenshot": "images/wetspot2.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        },
+        "world.war.ii.gi.zip": {
+            "version": 1,
+            "source": "world.war.ii.gi.zip",
+            "items": [
+                "rednukem-WWII/",
+                "World War II GI.sh"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "World War II GI",
+                "desc": "World War 2 GI using the rednukem build open source port by Alexey Khokholov. ",
+                "inst": "You'll need to add your own full version WW2GI.GRP and WW2DI.RTS and .CON files and optionally CD audio tracks as OGG file in the format trackXX.ogg (where XX is the track number) to the ports/rednukem-WWII/gamedata folder.",
+                "genres": [
+                    "fps"
+                ],
+                "porter": "romadu",
+                "rtr": false,
+                "runtime": null,
+                "reqs": [],
+                "image": {
+                    "screenshot": "images/world.war.ii.gi.screenshot.jpg"
+                }
+            }
+        },
+        "worship_vector.zip": {
+            "version": 1,
+            "source": "worship_vector.zip",
+            "items": [
+                "Worship Vector.sh",
+                "worship/"
+            ],
+            "items_opt": null,
+            "attr": {
+                "title": "Worship Vector",
+                "desc": "Worship Vector is a Tower Defense type game. The game is based upon a unique map, which extends automatically.  Just download and play.",
+                "inst": "",
+                "genres": [
+                    "puzzle"
+                ],
+                "porter": "Cebion",
+                "image": {
+                    "screenshot": "images/worship_vector.screenshot.jpg"
+                },
+                "rtr": true,
+                "runtime": null,
+                "reqs": []
+            }
+        }
+    }
+}
