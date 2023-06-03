@@ -3,8 +3,13 @@ import pathlib
 
 from pathlib import Path
 
+import rect
+import gui
+import tfont
+
 import sdl2
 import sdl2.ext
+
 
 ROOT_PATH = Path(__file__).parent
 DATA_PATH = ROOT_PATH / "data"
@@ -68,7 +73,6 @@ class InfoDB():
         return list(self._data["ports"].keys())
 
 
-
 class EventHandler():
     ## TODO: add deadzone code, and key repeat code.
 
@@ -109,8 +113,8 @@ class EventHandler():
         'LY': ('L_UP',   None, 'L_DOWN'),
         'RX': ('R_LEFT', None, 'R_RIGHT'),
         'RY': ('R_UP',   None, 'R_DOWN'),
-        'L2': (None, None, 'L2'),
-        'R2': (None, None, 'R2'),
+        'L2': (None,    None, 'L2'),
+        'R2': (None,    None, 'R2'),
         }
 
     REPEAT_MAP = [
@@ -123,12 +127,17 @@ class EventHandler():
         'L_DOWN',
         'L_LEFT',
         'L_RIGHT',
+
+        'R_UP',
+        'R_DOWN',
+        'R_LEFT',
+        'R_RIGHT',
         ]
 
     # Wait 1.5 seconds
-    REPEAT_DELAY = 1500
+    REPEAT_DELAY = 800
     # Trigger every 1 second
-    REPEAT_RATE = 500
+    REPEAT_RATE = 300
 
     ANALOG_MIN = 2048
     TRIGGER_MIN = 1024
@@ -260,8 +269,8 @@ def main():
         joystick=True)
 
     # Define window dimensions
-    window_width = 640
-    window_height = 480
+    display_width = 640
+    display_height = 480
 
     # Get the current display mode
     display_mode = sdl2.video.SDL_DisplayMode()
@@ -269,46 +278,60 @@ def main():
     if sdl2.video.SDL_GetCurrentDisplayMode(0, display_mode) != 0:
         print("Failed to get display mode:", sdl2.SDL_GetError())
     else:
-        window_width = display_mode.w
-        window_height = display_mode.h
+        display_width = display_mode.w
+        display_height = display_mode.h
         # Print the display width and height
         print("Display size:", display_mode.w, "x", display_mode.h)
 
 
     # Create the window
-    window = sdl2.ext.Window("Game UI", size=(window_width, window_height))
+    window = sdl2.ext.Window("Game UI", size=(display_width, display_height))
     window.show()
 
     # Create a renderer for drawing on the window
-    renderer = sdl2.ext.Renderer(window)
+    renderer = sdl2.ext.Renderer(window,
+            flags=sdl2.SDL_RENDERER_ACCELERATED)
 
     info = InfoDB(
         renderer,
         DATA_PATH / "ports.json")
 
-    # Define colors
-    colors = {
-        "white": sdl2.ext.Color(255, 255, 255),
-        "gray": sdl2.ext.Color(200, 200, 200),
-        "black": sdl2.ext.Color(0, 0, 0),
-        }
+    fonts = tfont.FontManager(renderer)
+
+
+    gui.Image.renderer = renderer
+    images = gui.ImageManager(renderer)
 
     # Define font
-    font = sdl2.ext.FontTTF(str(DATA_PATH / "DejaVuSans.ttf"), size=12, color=colors["black"])
+    # font = sdl2.ext.FontTTF(str(DATA_PATH / "DejaVuSans.ttf"), size=12, color=colors["black"])
 
-    # Define UI dimensions
-    list_width = 200
-    preview_width = 400
-    description_height = 100
+    with open(DATA_PATH / "theme.json") as fh:
+        theme = json.load(fh)
 
-    # Define UI positions
-    list_pos = sdl2.rect.SDL_Rect(0, 0, list_width, window_height - description_height)
-    preview_pos = sdl2.rect.SDL_Rect(list_width, 0, window_width - list_width, window_height - description_height)
-    description_pos = sdl2.rect.SDL_Rect(0, window_height - description_height, window_width, window_height - description_height)
+    regions = {
+        }
+    registry = {
+        "port_list": None,
+        "port_title": None,
+        "port_preview": None,
+        "port_desc": None,
+        }
+
+    for region_name in theme:
+        region_info = theme[region_name]['info']
+        regions[region_name] = region = gui.Region(renderer, theme[region_name], images, fonts)
+        if region_info in registry:
+            registry[region_info] = region
 
     # Event loop
     running = True
     selected_game = 0
+    update = True
+
+    if registry["port_list"] is not None:
+        registry["port_list"].list = [
+            info.port_info(port_name)['attr']['title']
+            for port_name in info.ports_list()]
 
     event = EventHandler()
 
@@ -318,17 +341,13 @@ def main():
         if not event.running:
             break
 
-
         if event.was_pressed('UP'):
             selected_game -= 1
-            selected_game %= len(info.ports_list())
+            update = True
 
         if event.was_pressed('DOWN'):
             selected_game += 1
-            selected_game %= len(info.ports_list())
-
-        if event.was_pressed('X'):
-            info.data_load(DATA_PATH / "ports.json")
+            update = True
 
         if event.was_pressed('A'):
             print(f"Selected Game: {selected_game} -> {info.ports_list()[selected_game]}")
@@ -338,40 +357,35 @@ def main():
             ## TODO: get code from gptokeyb
             break
 
-        # Clear the window
-        renderer.clear(colors["white"])
+        if update:
+            port_name = info.ports_list()[selected_game]
 
-        # Draw game list
-        renderer.fill(list_pos, colors["gray"])
+            port_info = info.port_info(port_name)
 
-        ## TODO: add scrolling.
-        y = 10
-        for i, port_name in enumerate(info.ports_list()):
-            text_surface = info.get_port_attr_text_surface(port_name, "title", font)
-            renderer.copy(text_surface, dstrect=sdl2.rect.SDL_Rect(10, y, min(text_surface.size[0], list_width - 10), text_surface.size[1]))
-            y += text_surface.size[1]
-            if y >= list_pos.h:
-                break
+            if registry["port_list"] is not None:
+                registry["port_list"].selected = selected_game
 
-        # Draw preview
-        renderer.fill(preview_pos, colors["gray"])
+            port_preview = registry["port_preview"]
+            if port_preview:
+                port_preview.image = str(DATA_PATH / port_info['attr']['image']['screenshot'])
 
-        preview_image = info.get_port_image_surface(info.ports_list()[selected_game])
-        renderer.copy(
-            preview_image,
-            dstrect=sdl2.rect.SDL_Rect(
-                preview_pos.x + 10,
-                preview_pos.y + 10,
-                preview_pos.w - 20,
-                preview_pos.h - 20))
+            port_desc = registry["port_desc"]
+            if port_desc:
+                port_desc.text = port_info['attr']['desc']
 
-        # Draw description
-        renderer.fill(description_pos, colors["gray"])
-        text_surface = info.get_port_attr_text_surface(info.ports_list()[selected_game], "desc", font, width=(description_pos.w - 20))
-        renderer.copy(text_surface, dstrect=sdl2.rect.SDL_Rect(description_pos.x + 10, description_pos.y + 10, text_surface.size[0], text_surface.size[1]))
+        if update:
+            renderer.clear()
 
-        # Update the window
-        renderer.present()
+            for region_name in regions:
+                regions[region_name].update()
+
+            for region_name in regions:
+                regions[region_name].draw()
+
+            update = False
+
+            renderer.present()
+        window.refresh()
 
         sdl2.SDL_Delay(10)
 
